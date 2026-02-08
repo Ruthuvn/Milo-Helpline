@@ -114,7 +114,7 @@ Our goal is to make Milo Helpline a **24/7 lifeline for anyone in need** — bec
 
 ```bash
 # Clone the repository
-git clone
+git clone https://github.com/Ruthuvn/Milo-Helpline.git
 
 # Install dependencies
 npm install
